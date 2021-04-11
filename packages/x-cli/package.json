@@ -1,6 +1,6 @@
 {
   "name": "lvquan-x-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/main.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "lvquan-x-core": "^1.0.0",
     "@types/node": "^8.0.28",
+    "lvquan-x-core": "^1.0.1",
     "minimist": "^1.2.0"
   },
   "devDependencies": {
