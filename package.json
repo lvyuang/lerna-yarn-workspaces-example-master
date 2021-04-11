@@ -3,8 +3,9 @@
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "tsc -b packages/x-core packages/x-cli",
-    "test": "lerna run test",
-    "clean": "rimraf packages/**/lib"
+    "clean": "rimraf packages/**/lib",
+    "prepack": "yarn build",
+    "test": "lerna run test"
   },
   "devDependencies": {
     "@types/node": "^8.0.28",
