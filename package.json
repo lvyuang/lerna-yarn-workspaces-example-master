@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "build": "tsc -b packages/x-core packages/x-cli",
+    "build": "yarn clean && tsc -b packages/x-core packages/x-cli",
     "clean": "rimraf packages/**/lib",
     "test": "lerna run test"
   },
