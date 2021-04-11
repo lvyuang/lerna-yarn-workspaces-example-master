@@ -4,6 +4,7 @@
   "description": "",
   "main": "lib/main.js",
   "scripts": {
+    "prepack": "tsc -b",
     "test": "ava"
   },
   "keywords": [],

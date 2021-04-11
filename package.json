@@ -4,7 +4,6 @@
     "bootstrap": "lerna bootstrap",
     "build": "tsc -b packages/x-core packages/x-cli",
     "clean": "rimraf packages/**/lib",
-    "prepack": "yarn build",
     "test": "lerna run test"
   },
   "devDependencies": {
