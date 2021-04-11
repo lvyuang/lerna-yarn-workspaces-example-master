@@ -4,7 +4,7 @@
     "bootstrap": "lerna bootstrap",
     "build": "yarn clean && tsc -b packages/x-core packages/x-cli",
     "clean": "rimraf packages/**/lib",
-    "commit": "git-cz",
+    "cz": "git-cz",
     "test": "lerna run test"
   },
   "devDependencies": {
