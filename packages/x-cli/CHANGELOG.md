@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/lvyuang/lerna-yarn-workspaces-example-master/compare/lvquan-x-cli@1.1.6...lvquan-x-cli@1.5.0) (2021-04-11)
+
+
+### Features
+
+* x-cli 4 ([e4ff3ab](https://github.com/lvyuang/lerna-yarn-workspaces-example-master/commit/e4ff3ab))
+
+
+
+
 <a name="1.4.0"></a>
 # [1.4.0](https://github.com/lvyuang/lerna-yarn-workspaces-example-master/compare/lvquan-x-cli@1.1.6...lvquan-x-cli@1.4.0) (2021-04-11)
 
