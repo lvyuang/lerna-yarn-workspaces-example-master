@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.6.0-alpha.6b409155"></a>
+# [1.6.0-alpha.6b409155](https://github.com/lvyuang/lerna-yarn-workspaces-example-master/compare/lvquan-x-cli@1.5.0...lvquan-x-cli@1.6.0-alpha.6b409155) (2021-04-11)
+
+
+
+
+**Note:** Version bump only for package lvquan-x-cli
+
 <a name="1.5.0"></a>
 # [1.5.0](https://github.com/lvyuang/lerna-yarn-workspaces-example-master/compare/lvquan-x-cli@1.1.6...lvquan-x-cli@1.5.0) (2021-04-11)
 
